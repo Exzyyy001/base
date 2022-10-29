@@ -23,22 +23,22 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 global.thumb = fs.readFileSync('./image/thumbnail.jpg') // JGN DI UBAH!
-global.name = 'Aulia Rahman (Owner)', // GNTI NAMA LU!
-global.creator = 'LiaaCans BOT' // GANTI NAMA BOT LU BANH!
+global.name = 'Rapiksi (Owner)', // GNTI NAMA LU!
+global.creator = 'RAPI BOT' // GANTI NAMA BOT LU BANH!
 global.owner = ['6285821676621'] // GNTI NOMOR LU!
 global.premium = ['6285821676621']
-global.quotes = 'Kesempatan Anda Untuk Sukses Di Setiap Kondisi Selalu Dapat Diukur Oleh Seberapa Besar Kepercayaan Anda Pada Diri Sendiri' // Ganti Quotes, Tapi Trsrh Klian
-global.pulsa = ['081528965381'] // UBAH NOMOR YG AKTIF!
-global.botname = 'LiaaCans BOT' // GNTI NAMA BOT LU!
-global.packname = 'Nih Stikel Umtukmu' // TRSERAH MO GANTI AP!
-global.author = 'LiaaCans BOT' // GNTI NMA LU!
+global.quotes = 'Rapi Hengker Wibu Tejeye' // Ganti Quotes, Tapi Trsrh Klian
+global.pulsa = ['085845765943'] // UBAH NOMOR YG AKTIF!
+global.botname = 'RAPI BOT' // GNTI NAMA BOT LU!
+global.packname = 'RAPI BANDAR' // TRSERAH MO GANTI AP!
+global.author = 'RAPI BOT' // GNTI NMA LU!
 global.prefa = ['','!','.','/','#','$']
 global.sp = '⭔' // JGN DI UBAH²! NTR EROR
 global.mess = {
 success: '*[SUCCESS]* SUKSES PERMINTAAN ANDA TERKIRIM!',
 admin: 'Fitur Ini Khusus Untuk Admin Group!',
 botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-prem: 'Fitur Ini Khusus Untuk Premium',
+prem: 'Fitur Ini Khusus Untuk Premium(makanya beli premium konto)',
 owner: 'Fitur Ini Khusus Untuk Owner Bot',
 group: 'Fitur Ini Digunakan Hanya Untuk Group!',
 private: 'Fitur Ini Digunakan Hanya Untuk Private Chat!',
@@ -48,7 +48,7 @@ endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
 premium: "Unlimited",
-free: 10
+free: 10000
 }
 
 let file = require.resolve(__filename)
