@@ -43,7 +43,7 @@ owner: 'Fitur Ini Khusus Untuk Owner Bot',
 group: 'Fitur Ini Digunakan Hanya Untuk Group!',
 private: 'Fitur Ini Digunakan Hanya Untuk Private Chat!',
 bot: 'Fitur Ini Khusus Pengguna Nomor Bot',
-wait: '*[WAIT]* SEDANG DIPROSES, HARAP TUNGGU SEBENTAR!',
+wait: '*[WAIT]* SEDANG DIPROSES, HARAP TUNGGU SEBENTAR!SABAR YA NGNTD',
 endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
