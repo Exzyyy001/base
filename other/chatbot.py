@@ -18,7 +18,7 @@ import random
 gadaperintah = ["maaf tidak ada perintahnya kak", "gada kata kata itu kak"]
 bot = ["hallo juga"]
 bot2 = ["hai juga","hay juga"]
-nama = ["nama saya zahra"]
+nama = ["nama saya rapi"]
 kenalan = ["Ayok, namamu siapa ?"]
 kenalan2 = ["boleh kok hehe"]
 asal = ["saya berasal dari bot", "dari bumi lah banh"]
